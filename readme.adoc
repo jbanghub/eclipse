@@ -1,0 +1,5 @@
+# JBangHub Catalog for eclipse 
+
+This is a catalog of JBang scripts for eclipse.
+
+Curated and created by the community.
