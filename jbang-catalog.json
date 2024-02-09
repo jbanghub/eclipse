@@ -3,7 +3,7 @@
   "aliases": {
     "ecj": {
       "description": "Eclipse Compiler for Java",
-      "script-ref": "org.eclipse.jdt.core.compiler:ecj:4.6.0"
+      "script-ref": "org.eclipse.jdt.core.compiler:ecj:4.6.1"
     }
   },
   "templates": {}
