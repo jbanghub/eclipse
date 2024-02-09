@@ -2,8 +2,12 @@
   "catalogs": {},
   "aliases": {
     "ecj": {
-      "description": "Eclipse Compiler for Java",
-      "script-ref": "org.eclipse.jdt.core.compiler:ecj:4.6.1"
+      "script-ref": "org.eclipse.jdt.core.compiler:ecj:4.6.1",
+      "description": "Eclipse Compiler for Java"
+    },
+    "transfomer": {
+      "script-ref": "org.eclipse.transformer:org.eclipse.transformer.cli:0.5.0",
+      "java-agents": []
     }
   },
   "templates": {}
